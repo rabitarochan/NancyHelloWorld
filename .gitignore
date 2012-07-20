@@ -1,0 +1,20 @@
+## Visual Studio ##
+
+*.suo
+*.user
+*.sln.docstates
+
+[Dd]ebug/
+[Rr]elease/
+[Bb]in
+[Oo]bj
+
+# nuget
+packages/
+
+# ReSharper
+_ReSharper*
+
+# Windows
+Thumbs.db
+Desktop.ini
